@@ -1,41 +1,63 @@
-# 👋 Hi, I'm Diogo
+# Hi, I'm Diogo 👋
 
-### Software Developer focused on 3D Web Experiences
+### Software developer from Portugal
 
-I'm a software developer interested in building interactive web experiences with **Three.js**, **TypeScript** and modern frontend technologies.
+I like building things end-to-end — from Android apps with their own REST APIs and admin dashboards, to interactive 3D experiences on the web. Currently focused on personal projects and sharpening my full-stack skills.
 
-I enjoy working with real-time 3D graphics, clean interfaces, creative tools and web-based visual experiences.
+- 🍳 Built **CookUp** — a full-stack recipe platform (Android + PHP API + React dashboard)
+- 🌐 Exploring **Three.js**, **TypeScript** and creative web development
+- 📚 Always learning and trying out different areas of software development
 
 ---
 
-## 🛠️ Tech & Tools
+## Featured projects
 
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
+<p align="center">
+  <a href="https://github.com/Diogo1306/CookUp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diogo1306&repo=CookUp&theme=transparent&hide_border=true" alt="CookUp">
+  </a>
+  <a href="https://github.com/Diogo1306/F1_Three_project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diogo1306&repo=F1_Three_project&theme=transparent&hide_border=true" alt="F1 Three project">
+  </a>
+</p>
+
+**[CookUp](https://github.com/Diogo1306/CookUp)** — recipe platform built as my final course project (PAP): native Android app, PHP REST API with MySQL, React admin dashboard and Firebase authentication, all in one monorepo.
+
+**[F1 Three project](https://github.com/Diogo1306/F1_Three_project)** — interactive 3D experience built with Three.js.
+
+---
+
+## Tech & tools
+
+![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk)
+![Android](https://img.shields.io/badge/Android%20SDK-20232A?style=for-the-badge&logo=android)
+![PHP](https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs)
+![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
 ![Three.js](https://img.shields.io/badge/Three.js-20232A?style=for-the-badge&logo=three.js)
 ![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3)
-![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=cplusplus)
-![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql)
-![Android](https://img.shields.io/badge/Android%20SDK-20232A?style=for-the-badge&logo=android)
+![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma)
 ![Blender](https://img.shields.io/badge/Blender-20232A?style=for-the-badge&logo=blender)
 ![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
 
 ---
 
-## 🧩 About Me
+## GitHub stats
 
-- Focused on **Three.js**, **TypeScript** and interactive 3D web apps
-- Comfortable with frontend development and clean UI/UX
-- Basic knowledge of **Blender** and 3D environments
-- Working with **Java**, **Python**, **C/C++**, **MySQL** and **Android SDK** through academic and personal projects
-- Interested in creative coding, 3D editors, immersive web experiences and exploring different areas of software development
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Diogo1306&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo1306&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="165">
+</p>
 
 ---
 
-## 📫 Contact
+## Contact
 
-Feel free to explore my repositories and projects.
+📫 **diogoestevesmorgado@gmail.com**
