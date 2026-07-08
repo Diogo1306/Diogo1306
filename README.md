@@ -12,15 +12,6 @@ I like building things end-to-end, from Android apps with their own REST APIs an
 
 ## Featured projects
 
-<p align="center">
-  <a href="https://github.com/Diogo1306/CookUp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diogo1306&repo=CookUp&theme=transparent&hide_border=true" alt="CookUp">
-  </a>
-  <a href="https://github.com/Diogo1306/F1_Three_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diogo1306&repo=F1_Three_project&theme=transparent&hide_border=true" alt="F1 Three project">
-  </a>
-</p>
-
 **[CookUp](https://github.com/Diogo1306/CookUp)**: recipe platform built as my final course project (PAP): native Android app, PHP REST API with MySQL, React admin dashboard and Firebase authentication, all in one monorepo.
 
 **[F1 Three project](https://github.com/Diogo1306/F1_Three_project)**: interactive 3D experience built with Three.js.
@@ -52,8 +43,9 @@ I like building things end-to-end, from Android apps with their own REST APIs an
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diogo1306&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo1306&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="165">
+  <img src="https://img.shields.io/github/followers/Diogo1306?style=for-the-badge&logo=github&label=Followers&color=20232A" alt="Followers">
+  <img src="https://img.shields.io/github/stars/Diogo1306/CookUp?style=for-the-badge&logo=github&label=CookUp&color=20232A" alt="CookUp stars">
+  <img src="https://img.shields.io/github/stars/Diogo1306/F1_Three_project?style=for-the-badge&logo=github&label=F1&color=20232A" alt="F1 stars">
 </p>
 
 ---
