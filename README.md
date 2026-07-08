@@ -2,9 +2,9 @@
 
 ### Software developer from Portugal
 
-I like building things end-to-end — from Android apps with their own REST APIs and admin dashboards, to interactive 3D experiences on the web. Currently focused on personal projects and sharpening my full-stack skills.
+I like building things end-to-end, from Android apps with their own REST APIs and admin dashboards, to interactive 3D experiences on the web. Currently focused on personal projects and sharpening my full-stack skills.
 
-- 🍳 Built **CookUp** — a full-stack recipe platform (Android + PHP API + React dashboard)
+- 🍳 Built **CookUp**, a full-stack recipe platform (Android + PHP API + React dashboard)
 - 🌐 Exploring **Three.js**, **TypeScript** and creative web development
 - 📚 Always learning and trying out different areas of software development
 
@@ -21,9 +21,9 @@ I like building things end-to-end — from Android apps with their own REST APIs
   </a>
 </p>
 
-**[CookUp](https://github.com/Diogo1306/CookUp)** — recipe platform built as my final course project (PAP): native Android app, PHP REST API with MySQL, React admin dashboard and Firebase authentication, all in one monorepo.
+**[CookUp](https://github.com/Diogo1306/CookUp)**: recipe platform built as my final course project (PAP): native Android app, PHP REST API with MySQL, React admin dashboard and Firebase authentication, all in one monorepo.
 
-**[F1 Three project](https://github.com/Diogo1306/F1_Three_project)** — interactive 3D experience built with Three.js.
+**[F1 Three project](https://github.com/Diogo1306/F1_Three_project)**: interactive 3D experience built with Three.js.
 
 ---
 
